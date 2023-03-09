@@ -37,7 +37,7 @@ Det är viktigt att lite då och då testa spelet så att allt fungerar som man 
 ![](../resources/images/lab1_7.gif)
 
 ##### Lägg till dödskoden ☠️
-Nedan är den kod som behövs för att bollen ska bli livsfarlig 😱, se klippet under koden för hur då får in den i spelet. Obs man kan klistra in koden genom att trycka ctrl + v / cmd + v eller som i klippet, genom högerklick
+Nedan är den kod som behövs för att bollen ska bli livsfarlig 😱, se klippet under koden för hur du får in den i spelet. Obs man kan klistra in koden genom att trycka ctrl + v / cmd + v eller som i klippet, genom högerklick
 ```lua
 function onTouched(Obj)
 	local h = Obj.Parent:FindFirstChild("Humanoid")

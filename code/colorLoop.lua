@@ -1,4 +1,4 @@
-[[
+--[[
     Det här scriptet gör så att den part det är kopplat mot ändrar färg tills det att 
     summan av red, green och blue är 3 eller mer  
 ]]

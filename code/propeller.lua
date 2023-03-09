@@ -1,4 +1,4 @@
-[[
+--[[
     Det här scriptet gör att den part som det är kopplat till börjar snurra som en propeller
 ]]
 while true do

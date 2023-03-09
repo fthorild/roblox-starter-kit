@@ -1,4 +1,4 @@
-[[
+--[[
     Det här scriptet gör så att den part som det är kopplat till blir dödligt
 ]]
 

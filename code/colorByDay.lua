@@ -1,4 +1,4 @@
-[[
+--[[
     Det här scriptet gör att den part det är kopplat till byter färg till röd men bara om det är Tisdag eller Torsdag
 ]]
 

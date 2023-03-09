@@ -24,3 +24,4 @@
 * 🤖 Beroende på om det är Windows eller MacOS så ser det lite olika ut men det är som att installera ett "vanligt" program
 
 💡 [Lite tips på hur du använder Roblox Studio](./resources/robloxstudio.md)
+🤖 [Labb, skapa spel med farlig lavaboll](./resources/labs.md)

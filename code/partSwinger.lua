@@ -1,4 +1,4 @@
-[[
+--[[
     Det här scriptet gör att den part det är kopplat till förflyttar sig tills det att dens värde för position 
     på Z är större än -75 då den byter riktning i Z tills det att värdet är mindre än -80. Beroende på var din 
     part står från början så kan det behöva uppdateras innan det körs igång
