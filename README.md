@@ -23,4 +23,4 @@
 
 * 🤖 Beroende på om det är Windows eller MacOS så ser det lite olika ut men det är som att installera ett "vanligt" program
 
-💡 [Lite tips om hur du använder Roblox Studio](./resources/robloxstudio.md)
+💡 [Lite tips på hur du använder Roblox Studio](./resources/robloxstudio.md)

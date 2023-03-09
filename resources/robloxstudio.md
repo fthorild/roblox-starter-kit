@@ -1,7 +1,7 @@
 # Roblox Studio
 
 
-> ℹ️ Roblox Studio är ett stort och komlicerat program. Nedan hittar du snabba tips för var du hittar grunderna men för att gå vidare föreslås att du söker på YouTube efter videos som går igenom Roblox Studio i detalj. Sök på "Roblox Studio Tutorial"
+> ℹ️ Roblox Studio är ett stort och komplicerat program. Nedan hittar du snabba tips för var du hittar grunderna men för att gå vidare föreslås att du söker på YouTube efter videos som går igenom Roblox Studio i detalj. Sök på "Roblox Studio Tutorial"
 
 
 
