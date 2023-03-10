@@ -6,16 +6,16 @@
 
 local direction = 1
 while true do
-	print(script.Parent.CFrame.Z)
+	print(script.Parent.Position.X)
 	
-	if script.Parent.CFrame.Z > -75 then
+	if script.Parent.Position.X > -75 then
 		direction = -1
 	end
 	
 	
-	if script.Parent.CFrame.Z < -80 then
+	if script.Parent.Position.X < -80 then
 		direction = 1
 	end
-	script.Parent.CFrame = script.Parent.CFrame + Vector3.new(0, 0, direction) 
+	script.Parent.Position = script.Parent.Position + Vector3.new(direction, 0, 0) 
 	wait()
 end

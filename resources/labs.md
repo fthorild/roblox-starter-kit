@@ -1,6 +1,6 @@
-| 🤖 Labb - Jättefarlig röd lavaboll 🔥          |
-|:---------------------------|
-| Uppgiften är att skapa ett spel vars enda syfte är att man ska undvika att gå in i den stora röda och jättefarliga lavabollen. Om man ändå gör det så dör man ☠️. |
+# 🤖 Labb - Jättefarlig röd lavaboll 🔥          
+
+Uppgiften är att skapa ett spel vars enda syfte är att man ska undvika att gå in i den stora röda och jättefarliga lavabollen. Om man ändå gör det så dör man ☠️.
 
 #### Del 1 - Skapa lavabollen
 ##### Skapa ny värld

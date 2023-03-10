@@ -1,5 +1,3 @@
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/taxonomythorild?style=social)](https://twitter.com/taxonomythorild?s=20)
 [![GitHub issues](https://img.shields.io/github/issues/fthorild/roblox-starter-kit)](https://github.com/fthorild/roblox-starter-kit/issues)
 
 
@@ -27,3 +25,5 @@
 💡 [Lite tips på hur du använder Roblox Studio](./resources/robloxstudio.md)
 
 🤖 [Labb, skapa spel med farlig lavaboll](./resources/labs.md)
+
+🎥 [Genomgång av labb (och lite till), youtube](https://youtu.be/DTG2G9RqIXA)
