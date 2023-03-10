@@ -8,7 +8,8 @@
 
 För att börja att skapa ett nytt spel i Roblox Studio, klicka på + New och seden väljer du vilken mall du vill ha. En bra mall för att testa lite olika saker är "Classic Baseplate"
 
-![](../resources/images/rbstudio1.png)
+
+<img src="../resources/images/rbstudio1.png" width="450">
 
 Roblox Studio innehåller jättemycket olika knappar och menyer men de 3 viktigaste är:
 
@@ -21,4 +22,4 @@ I Explorer hittar du en lista på alla dina saker. Om du exempelvis har lag in 1
 #### 3 Properties
 Om man vill ändra beteende på ett objekt, exempelvis göra en boll grön istället för röd så gör man detta i propertiesrutan
 
-![](../resources/images/rbstudio2.png)
+<img src="../resources/images/rbstudio2.png" width="650">
